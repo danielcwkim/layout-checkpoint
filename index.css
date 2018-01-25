@@ -20,3 +20,8 @@ ul {
   padding: 20px;
   text-align: center
 }
+
+.border {
+  border: 1px solid #333333;
+  height: 474px;
+}
